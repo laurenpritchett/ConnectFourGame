@@ -1,0 +1,3 @@
+Hackbright Intro Class Final Project: Connect Four
+
+This is a two-player Connect Four game to be played in the terminal. The game board is a 6x7 grid with 42 free cells. Player A goes first and chooses a column to enter a checker. The checker falls to the bottom of the column, or the first unoccupied cell from the bottom of that column as play progresses. Turns alternate between A and B until one player has four "checkers" in a row. To win, a player can place 4 checkers in a row vertically, horizontally, or diagonally. Checkers are represented by As and Bs on the 42-cell game board. A tie happens when all 42 cells are full but neither player has placed four checkers in a row.
